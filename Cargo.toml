@@ -2,6 +2,7 @@
 authors = ["Jason Housley <HousleyJK@gmail.com>"]
 description = "Lightweight, event-driven WebSockets for Rust."
 documentation = "https://docs.rs/ws/latest/ws/index.html"
+edition = "2015"
 keywords = [
     "websocket",
     "mio",
